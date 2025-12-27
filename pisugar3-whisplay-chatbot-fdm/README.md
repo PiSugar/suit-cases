@@ -1,7 +1,7 @@
 # PiSugar3 Whisplay Chatbot for Pi Zero 2w
 
 This enclosure is suit for FDM 3D Printer.
-Tested on Bamboo Lab H1S using PLA material.
+Tested on Bambu Lab H1S using PLA material.
 
 #### Screw Type
 `M2*3 countersunk screw` x 8
