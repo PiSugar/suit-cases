@@ -25,7 +25,7 @@ Quantities below match the supplied 3MF project.
 | Back cover | 1 | [back-cover](print/optocam-fdm%20-%20back-cover-1.STL) |
 | Screen cover | 1 | [screen-cover](print/optocam-fdm%20-%20screen-cover-1.STL) |
 | Camera cap | 1 | [camera-cap](print/optocam-fdm%20-%20camera-cap-1.STL) |
-| Button cap | 2 | [click_top](print/optocam-fdm%20-%20click_top-1.STL) |
+| Button cap | 1 | [click_top](print/optocam-fdm%20-%20click_top-1.STL) |
 
 ## Printing
 
