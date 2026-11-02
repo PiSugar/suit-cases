@@ -1,0 +1,18 @@
+33.5.0
+Unit_Joystick2 err=0 warn=0
+Bodies=4
+Type=0 mesh=False faces=1303 check=0
+Type=0 mesh=False faces=1100 check=0
+Type=0 mesh=False faces=135 check=0
+Type=0 mesh=False faces=1150 check=0
+Save=True err=0
+STEP=True err=0
+Unit_Scroll err=0 warn=0
+Bodies=5
+Type=0 mesh=False faces=2620 check=0
+Type=0 mesh=False faces=2560 check=0
+Type=0 mesh=False faces=186 check=0
+Type=0 mesh=False faces=254 check=0
+Type=0 mesh=False faces=4392 check=0
+Save=True err=0
+STEP=True err=0
