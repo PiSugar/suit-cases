@@ -11,7 +11,7 @@
 | Part | Specification | Quantity |
 | --- | --- | ---: |
 | Threaded insert nut | M2 thread, Ø3 mm outside diameter, 2.5 mm insertion depth | 8 |
-| Countersunk screw | M2 × 3 mm | 8 |
+| Countersunk screw | M2 × 4 mm | 8 |
 
 ## Install the threaded inserts
 
