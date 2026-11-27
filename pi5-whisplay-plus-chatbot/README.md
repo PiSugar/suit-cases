@@ -2,6 +2,8 @@
 
 3D-printable case for Raspberry Pi 5, PiSugar 3 Plus, and WhisPlay Plus. The Raspberry Pi Camera Module 3 mount is optional.
 
+<img width="800" alt="94de2d0e35140139fcea0492994ff3e2" src="https://github.com/user-attachments/assets/9389fd2d-dd26-4602-8cf3-a0928db183bd" />
+
 ![Isometric SolidWorks preview of the WhisPlay Plus case](preview.png)
 
 ## Case hardware
