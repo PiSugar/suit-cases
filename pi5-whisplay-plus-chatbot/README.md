@@ -17,7 +17,7 @@
 
 Install one insert at each numbered location before fitting the lids. The main shell takes two inserts, one at each side opening. Each lid takes three inserts, two at one end and one at the other. Seat the inserts flush with the hole openings, then secure the case with the eight countersunk screws.
 
-![Eight threaded insert locations shown in SolidWorks end views of the main shell and both lids](insert-nut-locations.png)
+![Eight threaded insert locations on the main shell and both lids, shown in SolidWorks views rotated 45° about each of two axes](insert-nut-locations.png)
 
 ## Optional camera mount
 
